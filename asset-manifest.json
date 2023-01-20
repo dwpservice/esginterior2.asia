@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/esginterior2.asia/static/js/main.773cf831.chunk.js",
+    "runtime-main.js": "/esginterior2.asia/static/js/runtime-main.1b05113d.js",
+    "static/css/2.82c736c2.chunk.css": "/esginterior2.asia/static/css/2.82c736c2.chunk.css",
+    "static/js/2.81305561.chunk.js": "/esginterior2.asia/static/js/2.81305561.chunk.js",
+    "index.html": "/esginterior2.asia/index.html",
+    "static/js/2.81305561.chunk.js.LICENSE.txt": "/esginterior2.asia/static/js/2.81305561.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/esginterior2.asia/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b05113d.js",
+    "static/css/2.82c736c2.chunk.css",
+    "static/js/2.81305561.chunk.js",
+    "static/js/main.773cf831.chunk.js"
+  ]
+}
